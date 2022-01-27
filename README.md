@@ -6,18 +6,19 @@ Background
 The data dive continues!
 Now, it's time to take what I've learned about Python Pandas and apply it to new situations. For this assignment, I decided to completed the Heroes Of Pymoli data and analytical analysys. 
 
-I created a new repository for this project called pandas-challenge at https://github.com/BZNUDS/pandas-challenge.
+I created a new repository for this project called pandas-challenge at https://github.com/BZNUDS.
 
 I then cloned the new repository to my computer.
 
-Inside my local git repository, I created a directory for the Pandas Challenge HeroesOfPymoli. 
+Inside my local git repository, I created a directory for the Pandas Challenge called HeroesOfPymoli. 
 
-Add your Jupyter notebook to this folder. This will be the main script to run for analysis.
+Added my Jupyter notebook to this folder. This will be the main script to run for analysis.
 
 I pushed the above changes to GitHub.
 
 
- Heroes of Pymoli
+
+Heroes of Pymoli
 
 I have been assigned the task of analyzing the data for the most recent fantasy game Heroes of Pymoli.
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. I generated a report that breaks down the game's purchasing data into meaningful insights. It is called HeroesOfPymoli.ipynb and located at https://github.com/BZNUDS/pandas-challenge/tree/main/HeroesOfPymoli
