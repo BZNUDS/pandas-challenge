@@ -20,7 +20,7 @@ I pushed the above changes to GitHub.
  Heroes of Pymoli
 
 I have been assigned the task of analyzing the data for the most recent fantasy game Heroes of Pymoli.
-Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
+Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. I generated a report that breaks down the game's purchasing data into meaningful insights.
 My final report HeroesOfPymoli.ipynb includes each of the following:
 
 Player Count
